@@ -1,0 +1,55 @@
+header {
+    background-color: green;
+}
+
+footer {
+    background-color: olive;
+}
+
+#rood{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+#oranje{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+}
+
+#geel {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#roze{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+}
+
+#lagoon{
+    width: 100px;
+    height: 100px;
+    background-color: #16dbc4;
+}
+
+#indigo{
+    width: 100px;
+    height: 100px;
+    background-color: indigo;
+}
+
+#blauw{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+#oceaan{
+    width: 100px;
+    height: 100px;
+    background-color: #31f7e0;
+}
